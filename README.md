@@ -3,4 +3,4 @@
 
 
 # sample  webpage orignal of showing purpose w/o hemberger
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/252e48b2-e018-458c-ada1-d52c4b2bbe51)
